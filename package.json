@@ -1,7 +1,4 @@
 {
-  "scripts": {
-    "html": "node index.js"
-  },
   "devDependencies": {
     "fs-extra": "^7.0.0",
     "marked": "^0.5.1"
