@@ -48,7 +48,7 @@
 ### ❤️ with GitHub
 - <a href="https://github.com/evillt" target="_blank">https://github.com/evillt</a>
 
-## 语言能力
+## Language
 - Chinese
   - Cantonese and Madarin are relative well
 - English
