@@ -21,7 +21,16 @@ Difficult with Chinese? [Here](en) an English version.
 - 2017/2 ~ 2018/9
 - 广州弘融信息科技有限公司
 - 金融/小额贷款 - 少于50人 - 初创公司
-- 最主要是 Vue 和 JavaScript
+- 最主要是 **JavaScript** 和 _Vue_
+- <a href="39.108.168.182:9096" target="_blank">点我可以参考</a>, 跟我脱手时已经有变化, 由于地址时不时会变更, 访问不上属于正常情况.
+- 应用到
+  - webpack 4
+  - vue 2.5.x 和其他 vue 插件但没有 vuex(非必要)
+  - i18n 支持英文(80%) 默认根据浏览器语言 可切换
+  - PWA
+    - ServiceWorker 凉于官方不提供 SSL
+    - WebAppManifest 依赖于设备版本
+  - ...
 
 ## 个人项目(部分)
 

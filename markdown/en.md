@@ -1,5 +1,7 @@
 # Here is an _**INTEROVERTS**_ guy's resume
 
+Sorry for many errors in the grammar with my terrible English.😂 
+
 不小心来到了英文版? [点我!](/)
 
 ## Something about me
@@ -27,6 +29,15 @@
 - GuangZhou Grand-Asset tech
 - finance/loan - <50 person - Startup Comp
 - I wrote .vue and .js
+- <a href="39.108.168.182:9096" target="_blank">Here</a> is a site I did, and it's have different than when I left. It's normal for the page doesn't working 'because the url might have been changed.
+- Build with following
+  - webpack 4
+  - vue 2.5.x and other vue plugins but vuex
+  - i18n CHS/EN(80%) depends on browser language, switchable
+  - PWA
+    - ServiceWorker Disable 'cause with no SSL for site
+    - WebAppManifest
+  - ...
 
 ## My project
 
@@ -48,7 +59,7 @@
 ### ❤️ with GitHub
 - <a href="https://github.com/evillt" target="_blank">https://github.com/evillt</a>
 
-## 语言能力
+## Languages
 - Chinese
   - Cantonese and Madarin are relative well
 - English
