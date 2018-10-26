@@ -59,7 +59,11 @@ Sorry for many errors in the grammar with my terrible English.😂
 ### ❤️ with GitHub
 - <a href="https://github.com/evillt" target="_blank">https://github.com/evillt</a>
 
+<<<<<<< HEAD
 ## Languages
+=======
+## Language
+>>>>>>> c0700a9f8f5d59b44de963c0352e4744bb6b08d3
 - Chinese
   - Cantonese and Madarin are relative well
 - English
