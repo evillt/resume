@@ -29,7 +29,7 @@ Sorry for many errors in the grammar with my terrible English.😂
 - GuangZhou Grand-Asset tech
 - finance/loan - <50 person - Startup Comp
 - I wrote .vue and .js
-- <a href="39.108.168.182:9096" target="_blank">Here</a> is a site I did, and it's have different than when I left. It's normal for the page doesn't working 'because the url might have been changed.
+- <a href="http://39.108.168.182:9096" target="_blank">Here</a> is a site I did, and it's have different than when I left. It's normal for the page doesn't working 'because the url might have been changed.
 - Build with following
   - webpack 4
   - vue 2.5.x and other vue plugins but vuex
