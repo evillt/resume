@@ -41,7 +41,7 @@ Difficult with Chinese? [Here](en) an English version.
 
 ### register-service-worker-chain
 - 2018/9 ~ 2018/9
-- 链式register-service-worker, 因为喜欢 optional chaining 特性
+- 链式register-service-worker, 因为喜欢 chaining 特性
 - <a href="https://github.com/evillt/register-service-worker-chain" target="_blank">https://github.com/evillt/register-service-worker-chain</a>
 
 ### 博客

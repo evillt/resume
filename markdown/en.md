@@ -48,7 +48,7 @@ Sorry for many errors in the grammar with my terrible English.😂
 
 ### register-service-worker-chain
 - 2018/9 ~ 2018/9
-- Based on <a href="https://github.com/yyx990803/register-service-worker" target="_blank">yyx990803/register-service-worker</a>, optional chaining which is a feature I like a lot
+- Based on <a href="https://github.com/yyx990803/register-service-worker" target="_blank">yyx990803/register-service-worker</a>, 'cause chaining which is a feature I like a lot
 - <a href="https://github.com/evillt/register-service-worker-chain" target="_blank">https://github.com/evillt/register-service-worker-chain</a>
 
 ### Blog
