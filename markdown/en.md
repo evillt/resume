@@ -16,7 +16,7 @@ Sorry for many errors in the grammar with my terrible English.😂
 
 ## Job Preference
 - Full-Time
-- Online job is HIGHLY ACCEPTABLE
+- Remote job is HIGHLY ACCEPTABLE
 - Else only consider about in GuangZhou 👻
 - Future job WANTS but NOT MUST be following :)
   1. Vue is the core technology way
