@@ -35,32 +35,32 @@ Sorry for many errors in the grammar with my terrible English.😂
 ### Dvan
 - 2018/7 ~ present
 - You can start a website or project with only .vue files and no config required until you need. Like vuepress or vue-cli.
-- <a href="https://dvan.evila.me">https://dvan.evila.me</a>
+- <a target="_blank" href="https://dvan.evila.me">https://dvan.evila.me</a>
 
 ### register-service-worker-chain
 - 2018/9 ~ 2018/9
-- Based on <a href="yyx990803/register-service-worker">yyx990803/register-service-worker</a>, 'cause chaining which is a feature I like a lot
-- <a href="evillt/register-service-worker-chain">https://github.com/evillt/register-service-worker-chain</a>
+- Based on <a target="_blank" href="https://github.com/yyx990803/register-service-worker">yyx990803/register-service-worker</a>, 'cause chaining which is a feature I like a lot
+- <a target="_blank" href="https://github.com/evillt/register-service-worker-chain">https://github.com/evillt/register-service-worker-chain</a>
 
 ### Blog
 - 2018/8 ~ present
 - Write sth.
-- <a href="https://evila.me">https://evila.me</a>
+- <a target="_blank" href="https://evila.me">https://evila.me</a>
 
 ### ❤️ with GitHub
-- <a href="evillt">https://github.com/evillt</a>
+- <a target="_blank" href="https://github.com/evillt">https://github.com/evillt</a>
 
 ## Work Exps
 - 2017/2 ~ 2018/9
 - GuangZhou Grand-Asset information tech
 - finance/loan - <50 person - Startup Comp
 - I wrote .vue and .js
-- <a href="http://39.108.168.182:9096">Here</a> is a site I developed, and it's have different than when I left. It's normal for the page doesn't working 'because the url might have been changed.
+- <a target="_blank" href="http://39.108.168.182:9096">Here</a> is a site I developed, and it's have different than when I left. It's normal for the page doesn't working 'because the url might have been changed.
 - Build with following
   - webpack 4
   - vue 2.5.x and other vue plugins but vuex
   - i18n CHS/EN(80%) depends on browser language, switchable
-  - [VUX](https://vux.li)
+  - <a target="_blank" href="https://vux.li">VUX</a>
   - PWA
     - ServiceWorker Disable 'cause with no SSL for site
   - ...
