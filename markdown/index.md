@@ -1,4 +1,5 @@
-# 我! 患有 ⚡️ _**内向**_ ⚡️ 症状!
+<!-- # 我! 患有 ⚡️ _**内向**_ ⚡️ 症状! -->
+# 我!
 
 Difficult with Chinese? [Here](en) an English version.
 

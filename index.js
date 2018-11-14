@@ -4,7 +4,7 @@ const readFileSync = path => fs.readFileSync(path, 'utf8')
 const template = readFileSync('./template.html')
 
 const renderPage = (file, md) => {
-  const html = template.replace('<!-- render-markdown-outlet -->', marked(md))
+  const html = template.replace('{markdown}', marked(md))
   fs.outputFileSync(
     `dist/${file}.html`,
     html,
