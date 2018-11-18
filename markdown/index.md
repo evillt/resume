@@ -32,7 +32,7 @@ Difficult with Chinese? [Here](en) an English version.
   - 用于可以开发基于 vue 的网站或应用.
   - 也是无需配置就可以直接开发 .vue 文件以及通过一条命令运行在浏览器中.
   - 还可以通过使用插件将构建单页应用转变为多页应用.
-- <a target="_blank" href="https://dvan.evila.me">https://dvan.evila.me</a>
+- <a target="_blank" href="https://dvan.js.org">https://dvan.js.org</a>
 
 ### register-service-worker-chain
 - 2018/9 ~ 2018/9
