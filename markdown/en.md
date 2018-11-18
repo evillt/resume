@@ -55,6 +55,7 @@ Sorry for many errors in the grammar with my terrible English.😂
 - GuangZhou Grand-Asset information tech
 - finance/loan - <50 person - Startup Comp
 - I wrote .vue and .js
+- It 95% was wrote by myself, including English support.
 - <a target="_blank" href="http://39.108.168.182:9096">Here</a> is a site I developed, and it's have different than when I left. It's normal for the page doesn't working 'because the url might have been changed.
 - Build with following
   - webpack 4

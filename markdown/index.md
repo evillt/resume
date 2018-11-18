@@ -52,6 +52,7 @@ Difficult with Chinese? [Here](en) an English version.
 - 广州弘融信息科技有限公司
 - 金融/小额贷款 - 少于50人 - 初创公司
 - 最主要负责 **JavaScript** 和 _Vue_
+- 你所看到的 95% 都是独自完成的, 包括英文支持.
 - <a target="_blank" href="http://39.108.168.182:9096">点我可以参考</a>, 跟我脱手时已经有变化, 由于地址时不时会变更, 访问不上属于正常情况.
 - 应用到
   - webpack 4
