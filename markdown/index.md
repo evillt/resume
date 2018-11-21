@@ -22,6 +22,7 @@ Difficult with Chinese? [Here](en) an English version.
   - vuex
   - vue-server-side-renderer
 - Webpack
+- ECMAScript 6+
 - Sass
 - less
 - ❤️ npm

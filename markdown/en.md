@@ -28,6 +28,7 @@ Sorry for many errors in the grammar with my terrible English.😂
   - vuex
   - vue-ssr
 - Webpack
+- ECMAScript 6+
 - Sass
 - less
 - ❤️ npm
