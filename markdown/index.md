@@ -27,6 +27,8 @@ Difficult with Chinese? [Here](en) an English version.
 - less
 - ❤️ npm
 - node.js (仅入门少部分api, 用于写webpack插件或者其他[e.g.: fs, path])
+- git
+- vscode
 - ...
 
 ## 个人项目(部分)
