@@ -28,6 +28,7 @@ Sorry for many errors in the grammar with my terrible English.😂
   - vuex
   - vue-ssr
 - Webpack
+  - webpack-chain
 - ECMAScript 6+
 - Sass
 - less
@@ -52,7 +53,7 @@ Sorry for many errors in the grammar with my terrible English.😂
 ### Blog
 - 2018/8 ~ present
 - Write sth.
-- <a target="_blank" href="https://evila.me">https://evila.me</a>
+- <a target="_blank" href="https://github.com/evillt/blog/issues">https://github.com/evillt/blog/issues</a>
 
 ### ❤️ with GitHub
 - <a target="_blank" href="https://github.com/evillt">https://github.com/evillt</a>

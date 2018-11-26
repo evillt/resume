@@ -22,6 +22,7 @@ Difficult with Chinese? [Here](en) an English version.
   - vuex
   - vue-server-side-renderer
 - Webpack
+  - webpack-chain
 - ECMAScript 6+
 - Sass
 - less
@@ -49,7 +50,7 @@ Difficult with Chinese? [Here](en) an English version.
 ### 博客
 - 2018/8 ~ 现在
 - 瞎写东西
-- <a target="_blank" href="https://evila.me">https://evila.me</a>
+- <a target="_blank" href="https://github.com/evillt/blog/issues">https://github.com/evillt/blog/issues</a>
 
 ### 更多可以看看我那凄凉的 GitHub
 - <a target="_blank" href="https://github.com/evillt">https://github.com/evillt</a>
