@@ -8,6 +8,7 @@ Difficult with Chinese? [Here](en) an English version.
 - 可以联系我
   - 📨 <a href="mailto:ijoec123@gmail.com">ijoec123@gmail.com</a>
 - 其他
+  - **自认自学能力还行，且有一定的自律，但比起 GitHub 上众大神就见笑了...**
   - 时不时逛逛GitHub
   - 时不时写一写用处不大的开源
 
