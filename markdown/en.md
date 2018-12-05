@@ -12,6 +12,12 @@ Sorry for many errors in the grammar with my terrible English.😂
   - Sometimes look around GitHub
   - Sometimes write useless open source
 
+## Current Focus
+- [dvan](#dvan) : To learn structure via other cli tool(like vue-cli, nuxtjs, ...)
+- [blog](#blog) : Record my things, whatever is bad or good thing.
+- Preact : Why not react; try some diffrence. But there are very similiar.
+- TypeScript : 😂
+
 ## Job Preference
 - Full-Time job
 - Remote job is HIGHLY ACCEPTABLE

@@ -11,6 +11,14 @@ Difficult with Chinese? [Here](en) an English version.
   - 时不时逛逛GitHub
   - 时不时写一写用处不大的开源
 
+## 一些正在进行的事情 （前提是有工作后并且会在周末搞）
+- [dvan](#dvan) ：一个重复的轮子，目的是学习像各大架手脚工具的结构以及应用。
+- [博客](#博客) ：记录一些自己的事，有好有坏。
+- <a href="https://github.com/evillt/make-resume" target="_blank">make-resume</a> ：我目前的这个线上简历貌似很不好康，可能是各人审美存在的差异问题，暂计划搞一个简单又不失优雅的简历生成器。（基于 [dvan](#dvan) 目的是能找多点不足的地方）
+- 学 Preact ：搞点不同的东西。JSX 越看越美。
+- 学 TypeScript ：反正都是 js ，学 Preact 的同时顺带学 TypeScript 感觉上去也挺好。
+- Rollup ：随不及 Webpack 那么强大，但速度够快啊。
+
 ## 求职意向
 - **全职**
 - 线上工作可接受
