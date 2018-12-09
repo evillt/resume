@@ -8,10 +8,11 @@ Difficult with Chinese? [Here](en) an English version.
 - 可以联系我
   - 📨 <a href="mailto:ijoec123@gmail.com">ijoec123@gmail.com</a>
 - 其他
-  - **自认自学能力还行，且有一定的自律，但比起 GitHub 上众大神就见笑了...**
   - 时不时逛逛GitHub
   - 时不时写一写用处不大的开源
   - 沟通不难
+
+一句话~~蔑视~~推荐自己：**自认自学能力还行，且有一定的自律，但比起 GitHub 上众大神就见笑了...**
 
 ## 一些正在进行的事情 （前提是有工作后并且会在周末搞）
 - [dvan](#dvan) ：一个重复的轮子，目的是学习像各大 cli 工具的结构以及应用。
