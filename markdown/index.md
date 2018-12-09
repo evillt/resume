@@ -11,11 +11,12 @@ Difficult with Chinese? [Here](en) an English version.
   - **自认自学能力还行，且有一定的自律，但比起 GitHub 上众大神就见笑了...**
   - 时不时逛逛GitHub
   - 时不时写一写用处不大的开源
+  - 沟通不难
 
 ## 一些正在进行的事情 （前提是有工作后并且会在周末搞）
 - [dvan](#dvan) ：一个重复的轮子，目的是学习像各大 cli 工具的结构以及应用。
 - [博客](#博客) ：记录一些自己的事，有好有坏。
-- <a href="https://github.com/evillt/make-resume" target="_blank">make-resume</a> ：我目前的这个线上简历貌似很不好康，可能是各人审美存在的差异问题，暂计划搞一个简单又不失优雅的简历生成器。（基于 [dvan](#dvan) 目的是能找多点不足的地方）
+- [make-resume](#make-resume) ：我目前的这个线上简历貌似很不好康，可能是各人审美存在的差异问题，暂计划搞一个简单又不失优雅的简历生成器。（基于 [dvan](#dvan) 目的是能找多点不足的地方）
 - 学 Preact ：搞点不同的东西。JSX 挺好看的。
 - 学 TypeScript ：反正都是 js ，学 Preact 的同时顺带学 TypeScript 感觉上去也挺好。
 - Rollup ：随不及 Webpack 那么强大，但速度够快啊。
@@ -85,7 +86,7 @@ dvan@insider
 
 - 重新编写中
 - 更好的插件化系统
-- 更原始的 webpack 配置
+- 更原始的 webpack 配置，更易于扩展 webpack 配置
 
 ### register-service-worker-chain
 - <a target="_blank" href="https://github.com/evillt/register-service-worker-chain">https://github.com/evillt/register-service-worker-chain</a>
@@ -96,6 +97,12 @@ dvan@insider
 - <a target="_blank" href="https://github.com/evillt/blog">https://github.com/evillt/blog</a>
 - 2018/8 ~ 现在
 - 记录一些自己的事，有好有坏。
+
+### make-resume
+- <a href="https://github.com/evillt/make-resume" target="_blank">https://github.com/evillt/make-resume</a>
+- 2018/12 ~ 现在
+- 打算做一个单调且优雅的简历
+- 还不是因为这个简历全是 markdown 太单调了。
 
 ### 更多可以看看我那凄凉的 GitHub
 - <a target="_blank" href="https://github.com/evillt">https://github.com/evillt</a>
