@@ -10,11 +10,12 @@ Sorry for many errors in the grammar with my terrible English.😂
   - 📨 <a href="mailto:ijoec123@gmail.com">ijoec123@gmail.com</a>
 - Others
   - Sometimes look around GitHub
-  - Sometimes write useless open source
+  - Sometimes write ~~useless~~ open source
 
-## Current Focus
+One sentence to recommend: Self-driven is pretty good enough.
+
+## Focusing on
 - [dvan](#dvan) : To learn structure via other cli tool(like vue-cli, nuxtjs, ...)
-- [blog](#blog) : Record my things, whatever is bad or good thing.
 - Preact : Why not react; try some diffrence. But there are very similiar.
 - TypeScript : 😂
 
@@ -28,40 +29,40 @@ Sorry for many errors in the grammar with my terrible English.😂
   4. Without All versions of IE.
 
 ## My using stuff
+- **HTML**
 - **JavaScript**
-- Vue
-  - vue-router
-  - vuex
-  - vue-ssr
-- Webpack
-  - webpack-chain
+- Vue, vue-router, vuex, vue-ssr
+- Webpack, webpack-chain
 - ECMAScript 6+
 - Sass
 - less
-- ❤️ npm
+- stylus
+- ❤ npm
 - node.js (Only few api, use to write webpack plugin and else[e.g.: fs, path])
-- git
 - vscode
 - ...
 
 ## My project
 
-### Dvan
+### Dvan is Anthor JavaScript bundler
+
+@dvan/next
+
+- <a target="_blank" href="https://dvan.js.org">https://dvan.js.org</a>
 - 2018/7 ~ present
 - You can start a website or project with only .vue files and no config required until you need. Like vuepress or vue-cli.
-- <a target="_blank" href="https://dvan.js.org">https://dvan.js.org</a>
 
-### register-service-worker-chain
-- 2018/9 ~ 2018/9
-- Based on <a target="_blank" href="https://github.com/yyx990803/register-service-worker">yyx990803/register-service-worker</a>, 'cause chaining which is a feature I like a lot
-- <a target="_blank" href="https://github.com/evillt/register-service-worker-chain">https://github.com/evillt/register-service-worker-chain</a>
+@dvan/insider
 
-### Blog
+- Rewriting
+- Better plugable system
+
+### My Blog
 - 2018/8 ~ present
-- Write sth.
+- Record my JS thing, also my thing, even good or bad.
 - <a target="_blank" href="https://github.com/evillt/blog/issues">https://github.com/evillt/blog/issues</a>
 
-### ❤️ with GitHub
+### ❤ GitHub
 - <a target="_blank" href="https://github.com/evillt">https://github.com/evillt</a>
 
 ## Work Exps
@@ -69,7 +70,7 @@ Sorry for many errors in the grammar with my terrible English.😂
 - GuangZhou Grand-Asset information tech
 - finance/loan - <50 person - Startup Comp
 - I wrote .vue and .js
-- It 95% was wrote by myself, including English support.
+- 95% by myself, including English support.
 - <a target="_blank" href="http://39.108.168.182:9096">Here</a> is a site I developed, and it's have different than when I left. It's normal for the page doesn't working 'because the url might have been changed.
 - Build with following
   - webpack 4
@@ -78,7 +79,6 @@ Sorry for many errors in the grammar with my terrible English.😂
   - <a target="_blank" href="https://vux.li">VUX</a>
   - PWA
     - ServiceWorker Disable 'cause with no SSL for site
-  - ...
 
 ## Languages
 - Chinese
