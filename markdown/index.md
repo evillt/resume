@@ -10,7 +10,7 @@ Difficult with Chinese? [Here](en) an English version.
 
 一句话~~蔑视~~推荐自己：**自认自学能力还行，且有一定的自律，但比起 GitHub 上众大神就见笑了...**
 
-## 一些正在进行的事情 （前提是有工作后并且会在周末搞）
+## 一些正在进行的事情 （有正式工作后周末继续）
 - **学写代码** ： 不是不会写代码，是学写可读性高，易于维护，结构清晰的代码。
 - [dvan](#dvan) ：一个重复的轮子，目的是学习像各大 cli 工具的结构以及应用。
 - [博客](#博客) ：记录一些自己的{技术，个人的事，杂谈}，有好有坏。
@@ -23,7 +23,7 @@ Difficult with Chinese? [Here](en) an English version.
 
 ## 求职意向
 - **全职**
-- 线上工作可接受
+- 线上工作高度可接受
 
 ## 我使用/会
 - **HTML**
@@ -86,17 +86,23 @@ dvan@insider
 ### 我的博客
 - <a target="_blank" href="https://github.com/evillt/blog">https://github.com/evillt/blog</a>
 - 2018/8 ~ 现在
-- 记录一些自己的{技术，事}，有好有坏。
+- 记录一些自己的{技术，事，杂谈}，有好有坏。
 
 ### vue-auto-routes
-webpack 插件：自动 vue 路由
-- <a href="https://github.com/evillt/vue-auto-routes" target="_blank">https://github.com/evillt/vue-auto-routes</a>
+webpack 插件
+- <a target="_blank" href="https://github.com/evillt/vue-auto-routes">https://github.com/evillt/vue-auto-routes</a>
 - 2018/8 ~ 现在
 - 偷懒而生
 - 因为每多一个页面路由总得配置路由文件。
 
+### vuedown
+webpack loader
+- <a target="_blank" href="https://github.com/evillt/vuedown">https://github.com/evillt/vuedown</a>
+- 2018/9 ~ 现在
+- 转译 markdown 为 Vue 组件，提供 loader 方式使用。
+
 ### make-resume
-- <a href="https://github.com/evillt/make-resume" target="_blank">https://github.com/evillt/make-resume</a>
+- <a target="_blank" href="https://github.com/evillt/make-resume">https://github.com/evillt/make-resume</a>
 - 2018/12 ~ 现在
 - 打算做一个单调且优雅的简历
 - 还不是因为这个简历全是 markdown 太单调了。
