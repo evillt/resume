@@ -10,6 +10,17 @@ Difficult with Chinese? [Here](en) an English version.
 
 一句话~~蔑视~~推荐自己：**自认自学能力还行，且有一定的自律，但比起 GitHub 上众大神就见笑了...**
 
+## 一些正在进行的事情 （前提是有工作后并且会在周末搞）
+- **学写代码** ： 不是不会写代码，是学写可读性高，易于维护，结构清晰的代码。
+- [dvan](#dvan) ：一个重复的轮子，目的是学习像各大 cli 工具的结构以及应用。
+- [博客](#博客) ：记录一些自己的{技术，个人的事，杂谈}，有好有坏。
+- [自动vue路由](#vue-auto-routes) ：webpack 插件：自动化的vue路由生成
+- [make-resume](#make-resume) ：我目前的这个线上简历貌似很不好康，可能是各人审美存在的差异问题，暂计划搞一个简单又不失优雅的简历生成器。（基于 [dvan](#dvan) 目的是能找多点不足的地方）
+- 学 Preact ：搞点不同的东西。JSX 挺好看的。
+- 学 TypeScript ：反正都是 js ，学 Preact 的同时顺带学 TypeScript 感觉上去也挺好。
+- Rollup ：随不及 Webpack 那么强大，但速度够快啊。
+- 还有好多好多。啊！！！
+
 ## 求职意向
 - **全职**
 - 线上工作可接受
@@ -21,11 +32,9 @@ Difficult with Chinese? [Here](en) an English version.
 - Webpack, webpack-chain
 - Babel
 - ECMAScript 6+
-- sass
-- less
-- stylus
-- npm
-- node.js (仅入门少部分api, 用于写webpack插件或者其他[e.g.: fs, path])
+- Sass
+- Stylus
+- node.js (用于写webpack{插件,loader}或者其他[e.g.: fs, path])
 - ...
 
 ## 工作经验
@@ -46,6 +55,9 @@ Difficult with Chinese? [Here](en) an English version.
   - i18n 支持英文(80%) 默认根据浏览器语言 可切换
   - <a target="_blank" href="https://vux.li">VUX</a>
   - PWA
+- 自己曾重写过
+  - **webpack 3(vue-cli 2) -> webpack 4(无cli)**
+  - ~~vue 2.3 -> vue 2.5.x~~
 
 ### 对应上面移动端小贷的后台管理系统
 - 公司内部使用的系统，专门针对小贷平台产生的流水以及资金流动进行审核，批准，放贷和回收资金等等一系列关于业务的操作。
@@ -74,7 +86,14 @@ dvan@insider
 ### 我的博客
 - <a target="_blank" href="https://github.com/evillt/blog">https://github.com/evillt/blog</a>
 - 2018/8 ~ 现在
-- 记录一些技术输出，自己的事，有好有坏。
+- 记录一些自己的{技术，事}，有好有坏。
+
+### vue-auto-routes
+webpack 插件：自动 vue 路由
+- <a href="https://github.com/evillt/vue-auto-routes" target="_blank">https://github.com/evillt/vue-auto-routes</a>
+- 2018/8 ~ 现在
+- 偷懒而生
+- 因为每多一个页面路由总得配置路由文件。
 
 ### make-resume
 - <a href="https://github.com/evillt/make-resume" target="_blank">https://github.com/evillt/make-resume</a>
