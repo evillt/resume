@@ -1,5 +1,7 @@
 # Here is an _**INTEROVERTS**_ guy's resume
 
+**English resume is out-of-date! It's doesn't help me to get a job for now**
+
 Sorry for many errors in the grammar with my terrible English.😂 
 
 不小心来到了英文版? [点我!](/)
