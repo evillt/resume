@@ -10,7 +10,7 @@ Difficult with Chinese? [Here](en) an English version.
 
 一句话~~蔑视~~推荐自己：**自认自学能力还行，且有一定的自律，但比起 GitHub 上众大神就见笑了...**
 
-## 一些正在进行的事情 （有正式工作后周末继续）
+## 一些正在进行的事情
 <!-- - **学写代码** ： 不是不会写代码，是学写可读性高，易于维护，结构清晰的代码。 -->
 - [dvan](#dvan) ：一个重复的轮子，目的是学习像各大 cli 工具的结构以及应用。
 - [博客](#博客) ：记录一些自己的{技术，个人的事，杂谈}，有好有坏。
@@ -68,20 +68,13 @@ Difficult with Chinese? [Here](en) an English version.
 ## 个人项目(部分)
 
 ### Dvan
-dvan@next
 
 - <a target="_blank" href="https://dvan.js.org">https://dvan.js.org</a>
 - 2018/7 ~ 现在
 - 类似 vue-cli 的集成架手脚工具
   - 用于可以开发基于 vue 的网站或应用.
   - 也是无需配置就可以直接开发 .vue 文件以及通过一条命令运行在浏览器中.
-  - 可以通过插件(plugin-ssg)生成渲染好的静态文件.
-
-dvan@insider
-
-- 重新编写中
-- 更好的插件化系统
-- 更原始的 webpack 配置，更易于扩展 webpack 配置
+  - WIP:~~可以通过插件(plugin-ssg)生成渲染好的静态文件.~~
 
 ### 我的博客
 - <a target="_blank" href="https://github.com/evillt/blog">https://github.com/evillt/blog</a>
